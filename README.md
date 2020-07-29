@@ -1,2 +1,1 @@
-# christiancost47
-christiancost47
+[![Linkedin: christiancost47](https://img.shields.io/badge/-Christian%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christiancost47/)](https://www.linkedin.com/in/christiancost47/)
